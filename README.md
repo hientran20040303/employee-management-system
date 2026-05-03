@@ -4,7 +4,7 @@
 This project is a JavaScript-based workforce management system built using **Object-Oriented Programming (OOP)** principles. It models a corporate structure by defining base roles and specialized hierarchies through classes. The primary objective was to implement a scalable architecture using ES6 class syntax, focusing on inheritance, method overriding, and data encapsulation.
 
 ## 🚀 Technologies Used
-*   **Language:** JavaScript (ES6+)
+*   **Language:** JavaScript
 *   **Paradigm:** Object-Oriented Programming (OOP)
 *   **Key Features:** 
     *   Class Inheritance (`extends`)
